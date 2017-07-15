@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MA</string>
+
+    <string name="connect_device_to_network">Wifi is disabled. Please turn it on</string>
+    <string name="error_response_from_network">Error response from the network</string>
+
+</resources>
